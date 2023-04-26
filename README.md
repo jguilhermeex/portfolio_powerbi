@@ -36,11 +36,11 @@ Os dados se encontram em um arquivo de formato CSV (Separado por vírgulas) conf
 
 - Os Estados Unidos têm sido o país com maior número de produções no catálogo da Netflix ao longo dos anos, enquanto a Índia ocupa o segundo lugar, porém com uma diferença significativa em relação ao número de títulos.
  
-  # Recomendação
-  - A recomendação para a Netflix é investir em uma estratégia de composição de catálogo equilibrada entre filmes e séries e levar em consideração as preferências do público, as classificações etárias e as tendências de consumo ao longo do tempo. A empresa também deve expandir seu catálogo em diferentes países e estar atenta às mudanças no comportamento do público para oferecer uma experiência personalizada aos usuários e aumentar a base de assinantes.
+ # Recomendação
+ - A recomendação para a Netflix é investir em uma estratégia de composição de catálogo equilibrada entre filmes e séries e levar em consideração as preferências do público, as classificações etárias e as tendências de consumo ao longo do tempo. A empresa também deve expandir seu catálogo em diferentes países e estar atenta às mudanças no comportamento do público para oferecer uma experiência personalizada aos usuários e aumentar a base de assinantes.
 
 
-# Dica de Ferramenta - Tooltip
+# BÔNUS - Dica de Ferramenta - Tooltip
 - As dicas de ferramentas no Power BI permitem análises dentro de outras análises conforme mostrado no vídeo abaixo.
 
 https://user-images.githubusercontent.com/120759992/234710256-472b05d1-81f2-48cb-a55b-e23a1097c1fd.mp4
