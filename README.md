@@ -5,9 +5,9 @@
 # EM PROCESSO DE CRIAÇÃO
 
 # Etapas do Projeto (Data Ops)
-- Problema de Negócio
-- Escolha das ferramentas (Softwares Utilizados)
-- Mapeamento dos dados
+- Definição do Problema de Negócio
+- Escolha das Ferramentas - Softwares Utilizados
+- Mapeamento dos Dados
 - ETL e Análise Exploratória
 - Desenvolvimento do Dashboard
 - Insights e Recomendações
@@ -16,6 +16,8 @@
 - 
 
 # Softwares Utilizados
+- Microsoft Excel
+- Microsoft Power BI
 
 # ETL e Análise Exploratória
 
