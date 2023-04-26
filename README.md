@@ -31,6 +31,12 @@
 
 
 # Insights e Recomendações
+  
+- Observa-se oscilações na proporção de filmes para séries ao longo dos anos analisados, com um aumento mais significativo dos filmes em relação às séries entre 2017 e 2018, e uma queda mais acentuada em 2020. No geral, os filmes apresentaram um crescimento maior em relação às séries.
+  
+- As classificações etárias TV-MA, TV-14 e TV-PG são as líderes no dashboard da Netflix desde 2015, tendo sempre TV-MA na liderança o que pode indicar que um publico mais adulto consome as produções da plataforma.
+
+- Os Estados Unidos têm sido o país com maior número de produções no catálogo da Netflix ao longo dos anos, enquanto a Índia ocupa o segundo lugar, porém com uma diferença significativa em relação ao número de títulos.
 
 
 
