@@ -5,7 +5,7 @@
 
 # Etapas do Projeto (DataOps)
 - Definição do Problema de Negócio
-- Mapeamento dos dados
+- Mapeamento dos Dados
 - Escolha das Ferramentas - Softwares Utilizados
 - ETL (Extração, Transformação e Carregamento)
 - Desenvolvimento do Dashboard
