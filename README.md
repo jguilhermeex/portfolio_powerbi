@@ -17,11 +17,10 @@
 
 # Mapeamento dos Dados
 Os dados se encontram em um arquivo de formato CSV (Separado por vírgulas) conforme amostra abaixo:
- 
 <img width="900" alt="Imagem dados" src="https://user-images.githubusercontent.com/120759992/234710323-ebea7c42-f5b3-445e-8142-de7e041ecc76.PNG">
-
- <br />
-  
+ 
+<br />
+ 
 # Softwares Utilizados
 - Microsoft Excel
 - Microsoft Power BI
