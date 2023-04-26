@@ -38,7 +38,7 @@ Os dados se encontram em um arquivo de formato CSV (Separado por vírgulas) conf
 
 
 # Dica de Ferramenta - Tooltip
-
+- As dicas de ferramentas no Power BI permitem análises dentro de outras análises conforme mostrado no vídeo abaixo.
 
 https://user-images.githubusercontent.com/120759992/234710256-472b05d1-81f2-48cb-a55b-e23a1097c1fd.mp4
 
