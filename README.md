@@ -31,7 +31,7 @@ Os dados se encontram em um arquivo de formato CSV (Separado por vírgulas) conf
 
 # ETL (Extração, Transformação e Carregamento)
 ### Preparação dos dados
-- Limpeza, transformação, modelagem, checar a qualidade dos dados, etc.
+- Limpeza, transformação, modelagem, checagem da qualidade dos dados, etc.
 ### Análise exploratória
 - Extrair estatísticas descritivas relevantes.
 
