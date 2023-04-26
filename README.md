@@ -2,7 +2,6 @@
 <div style="display: flex; justify-content: space-between;"> <br>
 <img align="center"height="400" alt="coding-time" width = 1000 src="netflix.jpg">
 
-# EM PROCESSO DE CRIAÇÃO
 
 # Etapas do Projeto (Data Ops)
 - Definição do Problema de Negócio
@@ -26,7 +25,6 @@ Os dados se encontram em um arquivo de formato CSV (Separado por vírgulas) conf
 
 # Dashboard
 ![CASE NETFLIX_page-0001](https://user-images.githubusercontent.com/120759992/234708581-353176ea-3812-4ff4-b5e4-22cbf8f50455.jpg)
-
 
 # Insights
   
