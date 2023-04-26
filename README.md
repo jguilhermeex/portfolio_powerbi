@@ -28,6 +28,7 @@
 # Dashboard
 ![CASE NETFLIX_page-0001](https://user-images.githubusercontent.com/120759992/234708581-353176ea-3812-4ff4-b5e4-22cbf8f50455.jpg)
 
+- Dica de Ferramenta - Tooltip
 
 
 # Insights e Recomendações
