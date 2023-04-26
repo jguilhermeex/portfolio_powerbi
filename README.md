@@ -15,16 +15,16 @@
 - Como a Netflix pode otimizar a composição do seu catálogo para atender às preferências do público, considerando o número e a evolução das produções, as classificações etárias e a presença de diferentes países, a fim de oferecer uma experiência personalizada aos seus usuários?
 <br />
 
-# Mapeamento dos dados
+# Mapeamento dos Dados
 Os dados se encontram em um arquivo de formato CSV (Separado por vírgulas) conforme amostra abaixo:
-
 <img width="700" alt="Imagem dados" src="https://user-images.githubusercontent.com/120759992/234710323-ebea7c42-f5b3-445e-8142-de7e041ecc76.PNG">
 
-<br />
-
+ <br />
+  
 # Softwares Utilizados
 - Microsoft Excel
 - Microsoft Power BI
+  
 <br />
 
 # Dashboard
@@ -49,7 +49,8 @@ Os dados se encontram em um arquivo de formato CSV (Separado por vírgulas) conf
 # BÔNUS - Dica de Ferramenta - Tooltip
 - As dicas de ferramentas no Power BI permitem análises dentro de outras análises conforme mostrado no vídeo abaixo.
 
-https://user-images.githubusercontent.com/120759992/234710256-472b05d1-81f2-48cb-a55b-e23a1097c1fd.mp4
+https://user-images.githubusercontent.com/120759992/234713590-4d1ed1e8-6b7b-40c2-a129-902d8461adc4.mp4
+
 
 
 
