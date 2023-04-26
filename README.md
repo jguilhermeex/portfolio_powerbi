@@ -25,8 +25,9 @@ Os dados se encontram em um arquivo de formato CSV (Separado por vírgulas) conf
 # Softwares Utilizados
 - Microsoft Excel
 - Microsoft Power BI
-  
+ 
 <br />
+ 
 
 # ETL (Extração, Transformação e Carregamento)
 ### Preparação dos dados
@@ -35,13 +36,18 @@ Os dados se encontram em um arquivo de formato CSV (Separado por vírgulas) conf
 - Extrair estatísticas descritivas relevantes.
 
  <img width="917" alt="ETL" src="https://user-images.githubusercontent.com/120759992/234715009-41cd4875-6830-4f42-b3d2-2a84dda0405c.PNG">
- <br />
  
+<br />
+  
+<br />
+ 
+ 
+  
 # Dashboard Final
 ![CASE NETFLIX_page-0001](https://user-images.githubusercontent.com/120759992/234708581-353176ea-3812-4ff4-b5e4-22cbf8f50455.jpg)
 
 <br />
-
+ 
 # Insights
   
 - Observa-se oscilações na proporção de filmes para séries ao longo dos anos analisados, com um aumento mais significativo dos filmes em relação às séries entre 2017 e 2018, e uma queda mais acentuada em 2020. No geral, os filmes apresentaram um crescimento maior em relação às séries.
