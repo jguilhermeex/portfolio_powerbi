@@ -7,6 +7,7 @@
 - Definição do Problema de Negócio
 - Mapeamento dos dados
 - Escolha das Ferramentas - Softwares Utilizados
+- ETL (Extração, Transformação e Carregamento)
 - Desenvolvimento do Dashboard
 - Insights e Recomendações
 <br />
@@ -27,7 +28,17 @@ Os dados se encontram em um arquivo de formato CSV (Separado por vírgulas) conf
   
 <br />
 
-# Dashboard
+# ETL (Extração, Transformação e Carregamento)
+### Preparação dos dados
+- Limpeza, transformação, modelagem, checar a qualidade dos dados, etc.
+### Análise exploratória
+- Extrair estatísticas descritivas relevantes.
+
+ <img width="917" alt="ETL" src="https://user-images.githubusercontent.com/120759992/234715009-41cd4875-6830-4f42-b3d2-2a84dda0405c.PNG">
+
+<br />
+
+# Dashboard Final
 ![CASE NETFLIX_page-0001](https://user-images.githubusercontent.com/120759992/234708581-353176ea-3812-4ff4-b5e4-22cbf8f50455.jpg)
 
 <br />
