@@ -5,26 +5,31 @@
 
 # Etapas do Projeto (Data Ops)
 - Definição do Problema de Negócio
+- Mapeamento dos dados
 - Escolha das Ferramentas - Softwares Utilizados
-- Mapeamento dos Dados
-- ETL e Análise Exploratória
 - Desenvolvimento do Dashboard
 - Insights e Recomendações
+<br />
 
 # Problema de Negócio
 - Como a Netflix pode otimizar a composição do seu catálogo para atender às preferências do público, considerando o número e a evolução das produções, as classificações etárias e a presença de diferentes países, a fim de oferecer uma experiência personalizada aos seus usuários?
+<br />
 
 # Mapeamento dos dados
 Os dados se encontram em um arquivo de formato CSV (Separado por vírgulas) conforme amostra abaixo:
 
 <img width="700" alt="Imagem dados" src="https://user-images.githubusercontent.com/120759992/234710323-ebea7c42-f5b3-445e-8142-de7e041ecc76.PNG">
+<br />
 
 # Softwares Utilizados
 - Microsoft Excel
 - Microsoft Power BI
+<br />
 
 # Dashboard
 ![CASE NETFLIX_page-0001](https://user-images.githubusercontent.com/120759992/234708581-353176ea-3812-4ff4-b5e4-22cbf8f50455.jpg)
+
+<br />
 
 # Insights
   
@@ -34,9 +39,11 @@ Os dados se encontram em um arquivo de formato CSV (Separado por vírgulas) conf
 
 - Os Estados Unidos têm sido o país com maior número de produções no catálogo da Netflix ao longo dos anos, enquanto a Índia ocupa o segundo lugar, porém com uma diferença significativa em relação ao número de títulos.
  
+ <br />
+ 
  # Recomendação
  - A recomendação para a Netflix é investir em uma estratégia de composição de catálogo equilibrada entre filmes e séries e levar em consideração as preferências do público, as classificações etárias e as tendências de consumo ao longo do tempo. A empresa também deve expandir seu catálogo em diferentes países e estar atenta às mudanças no comportamento do público para oferecer uma experiência personalizada aos usuários e aumentar a base de assinantes.
-
+<br />
 
 # BÔNUS - Dica de Ferramenta - Tooltip
 - As dicas de ferramentas no Power BI permitem análises dentro de outras análises conforme mostrado no vídeo abaixo.
