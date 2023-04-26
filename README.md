@@ -15,18 +15,14 @@
 # Problema de Negócio
 - Como a Netflix pode otimizar a composição do seu catálogo para atender às preferências do público, considerando o número e a evolução das produções, as classificações etárias e a presença de diferentes países, a fim de oferecer uma experiência personalizada aos seus usuários?
 
-
-# Softwares Utilizados
-- Microsoft Excel
-- Microsoft Power BI
-
-# ETL e Análise Exploratória
-
 # Mapeamento dos dados
 Os dados se encontram em um arquivo de formato CSV (Separado por vírgulas) conforme amostra abaixo:
 
 <img width="828" alt="Imagem dados" src="https://user-images.githubusercontent.com/120759992/234710323-ebea7c42-f5b3-445e-8142-de7e041ecc76.PNG">
 
+# Softwares Utilizados
+- Microsoft Excel
+- Microsoft Power BI
 
 # Dashboard
 ![CASE NETFLIX_page-0001](https://user-images.githubusercontent.com/120759992/234708581-353176ea-3812-4ff4-b5e4-22cbf8f50455.jpg)
