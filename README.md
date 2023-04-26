@@ -9,7 +9,7 @@
 - Escolha das ferramentas (Softwares Utilizados)
 - Mapeamento dos dados
 - ETL e Análise Exploratória
-- Desenolvimento do Dashboard
+- Desenvolvimento do Dashboard
 - Insights e Recomendações
 
 # Problema de Negócio
