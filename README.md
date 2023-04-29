@@ -18,7 +18,7 @@ Como a Netflix pode otimizar a composição do seu catálogo para atender às pr
 Para isso, podemos quebrar o problema em perguntas específicas:
  
  - Qual é o número de produções no catálogo da Netflix?
- - Qual é a porcentagem de filmes e séries no catálogo da Netflix e como tem sido a evolução ao longo dos anos?
+ - Qual é a porcentagem de filmes e programas de tv no catálogo da Netflix e como tem sido a evolução ao longo dos anos?
  - Existe alguma correlação entre o aumento da porcentagem de filmes e séries no catálogo da Netflix?
  - Quais são as classificações etárias mais presentes no catálogo da Netflix?
  - Quais são os países com mais produções no catálogo da Netflix?
@@ -65,16 +65,16 @@ Para isso, podemos quebrar o problema em perguntas específicas:
  
 ## Evolução do cátalogo ao longo do tempo
  
-- Observa-se oscilações na proporção de filmes para séries ao longo dos anos analisados, com um aumento mais significativo dos filmes em relação às séries entre 2017 e 2018, e uma queda mais acentuada em 2020. No geral, os filmes apresentaram um crescimento maior em relação às séries.
+- Observa-se oscilações na proporção de filmes para séries ao longo dos anos analisados, com um aumento mais significativo dos filmes em relação aos programas de tv entre 2017 e 2018, e uma queda mais acentuada em 2020. No geral, os filmes apresentaram um crescimento maior em relação aos programaas de tv.
 
 ### Proporção
 
-- 2015: 58 filmes / 30 séries = 1.93 filmes por série 
-- 2016: 258 filmes / 185 séries = 1.39 filmes por série 
-- 2017: 864 filmes / 361 séries = 2.39 filmes por série 
-- 2018: 1255 filmes / 430 séries = 2.92 filmes por série 
-- 2019: 1497 filmes / 656 séries = 2.28 filmes por série 
-- 2020: 1312 filmes / 697 séries = 1.88 filmes por série
+- 2015: 58 filmes / 30 programas de tv = 1.93 filmes por série 
+- 2016: 258 filmes / 185 programas de tv = 1.39 filmes por série 
+- 2017: 864 filmes / 361 programas de tv = 2.39 filmes por série 
+- 2018: 1255 filmes / 430 programas de tv = 2.92 filmes por série 
+- 2019: 1497 filmes / 656 programas de tv = 2.28 filmes por série 
+- 2020: 1312 filmes / 697 programas de tv = 1.88 filmes por série
  
  <br />
  
@@ -91,6 +91,8 @@ Para isso, podemos quebrar o problema em perguntas específicas:
  ## Países
  
 - Os Estados Unidos têm sido o país com maior número de produções no catálogo da Netflix ao longo dos anos, enquanto a Índia ocupa o segundo lugar, porém com uma diferença significativa em relação ao número de títulos.
+ 
+- Apenas Reino Unido, Japão e Coreia do Sul possuem mais programas de tv do que séries.
  
  <br />
  
