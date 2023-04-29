@@ -56,13 +56,25 @@ Os dados se encontram em um arquivo de formato CSV (Separado por vírgulas) conf
 
 <br />
 
-![CASE NETFLIX_page-0001](https://user-images.githubusercontent.com/120759992/234708581-353176ea-3812-4ff4-b5e4-22cbf8f50455.jpg)
+<img width="688" alt="Dashboard Final" src="https://user-images.githubusercontent.com/120759992/235281875-717c99ae-996e-4478-8f2e-533674e9dc70.PNG">
+
 
 <br />
  
 # Insights
   
 - Observa-se oscilações na proporção de filmes para séries ao longo dos anos analisados, com um aumento mais significativo dos filmes em relação às séries entre 2017 e 2018, e uma queda mais acentuada em 2020. No geral, os filmes apresentaram um crescimento maior em relação às séries.
+
+-Proporção
+- 2013: 6 filmes e 5 séries = 1.2 filmes por série 
+- 2014: 19 filmes e 6 séries = 3.17 filmes por série
+- 2015: 58 filmes / 30 séries = 1.93 filmes por série 
+- 2016: 258 filmes / 185 séries = 1.39 filmes por série 
+- 2017: 864 filmes / 361 séries = 2.39 filmes por série 
+- 2018: 1255 filmes / 430 séries = 2.92 filmes por série 
+- 2019: 1497 filmes / 656 séries = 2.28 filmes por série 
+- 2020: 1312 filmes / 697 séries = 1.88 filmes por série
+
   
 - As classificações etárias TV-MA, TV-14 e TV-PG são as líderes no dashboard da Netflix desde 2015, tendo sempre TV-MA na liderança o que pode indicar que um publico mais adulto consome as produções da plataforma.
 
