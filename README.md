@@ -34,8 +34,11 @@ Para isso, podemos quebrar o problema em perguntas específicas:
 <br />
  
 # Softwares Utilizados
- - Microsoft Excel
- - Microsoft Power BI
+<img src="https://github.com/sempostma/office365-icons/blob/master/png/1024/excel.png" alt="Logo do GitHub" width="20" height="20"/> 
+ Microsoft Excel
+ <br />
+ <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png" alt="Logo do GitHub" width="20" height="20"/> 
+ Microsoft Power BI
                                                                                                             
  
 <br />
