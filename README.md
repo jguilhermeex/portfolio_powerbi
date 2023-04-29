@@ -72,12 +72,12 @@ Para isso, podemos quebrar o problema em perguntas específicas:
 
 Abaixo a proporção do catálogo desde 2015:
 
-- 2015: 58 filmes / 30 programas de TV = 1.93 filmes por Programa de TV. 
-- 2016: 258 filmes / 185 programas de TV = 1.39 filmes por Programa de TV. 
-- 2017: 864 filmes / 361 programas de TV = 2.39 filmes por Programa de TV. 
-- 2018: 1255 filmes / 430 programas de TV = 2.92 filmes por Programa de TV.
-- 2019: 1497 filmes / 656 programas de TV = 2.28 filmes por Programa de TV.
-- 2020: 1312 filmes / 697 programas de TV = 1.88 filmes por Programa de TV.
+- 2015: 58 filmes / 30 programas de TV = 1.93 filmes por programa de TV. 
+- 2016: 258 filmes / 185 programas de TV = 1.39 filmes por programa de TV. 
+- 2017: 864 filmes / 361 programas de TV = 2.39 filmes por programa de TV. 
+- 2018: 1255 filmes / 430 programas de TV = 2.92 filmes por programa de TV.
+- 2019: 1497 filmes / 656 programas de TV = 2.28 filmes por programa de TV.
+- 2020: 1312 filmes / 697 programas de TV = 1.88 filmes por programa de TV.
  
  <br />
  
@@ -95,7 +95,7 @@ Abaixo a proporção do catálogo desde 2015:
  
 - Os Estados Unidos têm sido o país com maior número de produções no catálogo da Netflix ao longo dos anos, enquanto a Índia ocupa o segundo lugar, porém com uma diferença significativa em relação ao número de títulos.
  
-- Apenas Reino Unido, Japão e Coreia do Sul possuem mais programas de TV do que filmes.
+- Do TOP 10, apenas Reino Unido, Japão e Coreia do Sul possuem mais programas de TV do que filmes.
  
  <br />
  
