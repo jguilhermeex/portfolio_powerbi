@@ -99,7 +99,7 @@ Abaixo a proporção do catálogo desde 2015:
  
  <br />
  
- # Recomendações
+ # Recomendações ao tomador de decisão
  
  - Analisar a demanda por filmes e programas de TV entre os usuários da Netflix e ajustar o catálogo de acordo com essas tendências.
  - Considerar a inclusão de mais programas de TV em relação aos filmes no catálogo, caso haja uma tendência de crescimento na demanda por esse tipo de conteúdo.
