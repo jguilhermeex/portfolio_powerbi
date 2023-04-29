@@ -99,8 +99,13 @@ Abaixo a proporção do catálogo desde 2015:
  
  <br />
  
- # Recomendação
- - A recomendação para a Netflix é investir em uma estratégia de composição de catálogo equilibrada entre filmes e programas de TV e levar em consideração as preferências do público, as classificações etárias e as tendências de consumo ao longo do tempo. A empresa também deve expandir seu catálogo em diferentes países e estar atenta às mudanças no comportamento do público para oferecer uma experiência personalizada aos usuários e aumentar a base de assinantes.
+ # Recomendações
+ 
+ - Analisar a demanda por filmes e séries entre os usuários da Netflix e ajustar o catálogo de acordo com essas tendências.
+ - Considerar a inclusão de mais programas de TV em relação aos filmes no catálogo, caso haja uma tendência de crescimento na demanda por esse tipo de conteúdo.
+ - Explorar a possibilidade de produzir mais conteúdo com classificações indicativas TV-MA e TV-14, já que essas classificações são as mais populares entre os usuários da Netflix.
+ - Investir em produções oriundas de países que apresentam um potencial de crescimento no número de títulos no catálogo da Netflix, como é o caso da Índia.
+ - Analisar o desempenho de produções de países como Reino Unido, Japão e Coreia do Sul, que possuem mais programas de TV do que filmes, e considerar a inclusão de mais produções desses países no catálogo da Netflix.
 <br />
 
 # BÔNUS - Dica de Ferramenta - Tooltip
