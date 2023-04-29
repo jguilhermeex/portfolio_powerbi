@@ -20,7 +20,7 @@ Para isso, podemos quebrar o problema em perguntas específicas:
  - Qual é o número de produções no catálogo da Netflix?
  - Qual é a porcentagem de filmes e programas de TV no catálogo da Netflix e como tem sido a evolução ao longo dos anos?
  - Existe alguma correlação entre o aumento da porcentagem de filmes e programas de TV no catálogo da Netflix?
- - Quais são as classificações etárias mais presentes no catálogo da Netflix?
+ - Quais são as classificações indicativas mais presentes no catálogo da Netflix?
  - Quais são os países com mais produções no catálogo da Netflix?
 <br />
 
