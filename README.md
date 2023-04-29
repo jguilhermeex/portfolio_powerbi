@@ -101,7 +101,7 @@ Abaixo a proporção do catálogo desde 2015:
  
  # Recomendações
  
- - Analisar a demanda por filmes e séries entre os usuários da Netflix e ajustar o catálogo de acordo com essas tendências.
+ - Analisar a demanda por filmes e programas de TV entre os usuários da Netflix e ajustar o catálogo de acordo com essas tendências.
  - Considerar a inclusão de mais programas de TV em relação aos filmes no catálogo, caso haja uma tendência de crescimento na demanda por esse tipo de conteúdo.
  - Explorar a possibilidade de produzir mais conteúdo com classificações indicativas TV-MA e TV-14, já que essas classificações são as mais populares entre os usuários da Netflix.
  - Investir em produções oriundas de países que apresentam um potencial de crescimento no número de títulos no catálogo da Netflix, como é o caso da Índia.
