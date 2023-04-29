@@ -13,7 +13,15 @@
 <br />
 
 # Problema de Negócio
-- Como a Netflix pode otimizar a composição do seu catálogo para atender às preferências do público, considerando o número e a evolução das produções, as classificações etárias e a presença de diferentes países, a fim de oferecer uma experiência personalizada aos seus usuários?
+Como a Netflix pode otimizar a composição do seu catálogo para atender às preferências do público, considerando o número e a evolução das produções, as classificações etárias e a presença de diferentes países, a fim de oferecer uma experiência personalizada aos seus usuários?
+
+Para isso, podemos quebrar o problema em perguntas específicas:
+ 
+ - Qual é o número de produções no catálogo da Netflix?
+ - Qual é a porcentagem de filmes e séries no catálogo da Netflix e como tem sido a evolução ao longo dos anos?
+ - Existe alguma correlação entre o aumento da porcentagem de filmes e séries no catálogo da Netflix?
+ - Quais são as classificações etárias mais presentes no catálogo da Netflix?
+ - Quais são os países com mais produções no catálogo da Netflix?
 <br />
 
 # Mapeamento dos Dados
@@ -43,7 +51,11 @@ Os dados se encontram em um arquivo de formato CSV (Separado por vírgulas) conf
  
  
   
-# Dashboard Final
+# Dashboard Interativo
+- [Clique aqui para visualizar o dashboard de maneira interativa](https://app.powerbi.com/view?r=eyJrIjoiNWQxNmYyNTItM2FlNS00YWI3LTgzZGYtNzMzNGYyNWJhOGI1IiwidCI6ImQ2ZjhiMGIwLTRiNzEtNDE1Yy1iODczLTk4ZDY3Mzc3MzhiZCJ9)
+
+<br />
+
 ![CASE NETFLIX_page-0001](https://user-images.githubusercontent.com/120759992/234708581-353176ea-3812-4ff4-b5e4-22cbf8f50455.jpg)
 
 <br />
