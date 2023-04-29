@@ -67,7 +67,7 @@ Para isso, podemos quebrar o problema em perguntas específicas:
  
 - Observa-se oscilações na proporção de filmes para séries ao longo dos anos analisados, com um aumento mais significativo dos filmes em relação aos programas de TV entre 2017 e 2018, e uma queda mais acentuada em 2020. No geral, os filmes apresentaram um crescimento maior em relação aos programas de TV.
 
-### Proporção
+Abaixo a proporção do catálogo desde 2015:
 
 - 2015: 58 filmes / 30 programas de TV = 1.93 filmes por série 
 - 2016: 258 filmes / 185 programas de TV = 1.39 filmes por série 
