@@ -25,7 +25,7 @@ Para isso, podemos quebrar o problema em perguntas específicas:
 <br />
 
 # Mapeamento dos Dados
-Os dados se encontram em um arquivo de formato CSV (Separado por vírgulas) conforme amostra abaixo:
+- Os dados se encontram em um arquivo de formato CSV (Separado por vírgulas) conforme amostra abaixo:
 <img width="1000" alt="Imagem dados" src="https://user-images.githubusercontent.com/120759992/234710323-ebea7c42-f5b3-445e-8142-de7e041ecc76.PNG">
  
 <br />
@@ -41,7 +41,7 @@ Os dados se encontram em um arquivo de formato CSV (Separado por vírgulas) conf
 ### Preparação dos dados
 - Limpeza, transformação, modelagem, checagem da qualidade dos dados, etc.
 ### Análise exploratória
-- Extrair estatísticas descritivas relevantes.
+- Extração de estatísticas descritivas relevantes.
 
  <img width="1000" alt="ETL" src="https://user-images.githubusercontent.com/120759992/234715009-41cd4875-6830-4f42-b3d2-2a84dda0405c.PNG">
  
