@@ -1,6 +1,6 @@
 # Projeto de Análise de Dados - Case Netflix
 <div style="display: flex; justify-content: space-between;"> <br>
-<img align="center"height="400" alt="coding-time" width = 1000 src="netflix.jpg">
+<img width="1000" alt="netflix" src="https://user-images.githubusercontent.com/120759992/235283693-2ca603e9-0d99-4032-a7d7-1ea06f451847.PNG">
 
 
 
