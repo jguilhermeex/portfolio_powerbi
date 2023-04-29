@@ -105,7 +105,7 @@ Abaixo a proporção do catálogo desde 2015:
 
 # BÔNUS - Dica de Ferramenta - Tooltip
 - As dicas de ferramentas no Power BI permitem análises dentro de outras análises, conforme mostrado no vídeo abaixo.
--Obs: Alguns campos do dashboard foram atualizados. Na época da gravação, o dashboard ainda estava sendo feito.
+- Obs: Alguns campos do dashboard foram atualizados. Na época da gravação, o dashboard ainda estava sendo feito.
 
 https://user-images.githubusercontent.com/120759992/234713590-4d1ed1e8-6b7b-40c2-a129-902d8461adc4.mp4
 
