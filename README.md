@@ -3,6 +3,7 @@
 <img align="center"height="400" alt="coding-time" width = 1000 src="netflix.jpg">
 
 
+
 # Etapas do Projeto (DataOps)
 - Definição do Problema de Negócio
 - Mapeamento dos Dados
