@@ -62,8 +62,10 @@ Para isso, podemos quebrar o problema em perguntas específicas:
 <br />
  
 # Insights
-  
-1. Observa-se oscilações na proporção de filmes para séries ao longo dos anos analisados, com um aumento mais significativo dos filmes em relação às séries entre 2017 e 2018, e uma queda mais acentuada em 2020. No geral, os filmes apresentaram um crescimento maior em relação às séries.
+ 
+## Evolução do cátalogo ao longo do tempo
+ 
+- Observa-se oscilações na proporção de filmes para séries ao longo dos anos analisados, com um aumento mais significativo dos filmes em relação às séries entre 2017 e 2018, e uma queda mais acentuada em 2020. No geral, os filmes apresentaram um crescimento maior em relação às séries.
 
 ### Proporção
 
@@ -75,8 +77,14 @@ Para isso, podemos quebrar o problema em perguntas específicas:
 - 2020: 1312 filmes / 697 séries = 1.88 filmes por série
  
  <br />
-  
-2. As classificações etárias TV-MA, TV-14 e TV-PG são as líderes no dashboard da Netflix desde 2015, tendo sempre TV-MA na liderança o que pode indicar que um publico mais adulto consome as produções da plataforma.
+ 
+ ## Classificação Indicativa
+ 
+- As classificações indicativas TV-MA, TV-14 e TV-PG são as líderes no dashboard da Netflix desde 2015, tendo sempre TV-MA na liderança o que pode indicar que um publico mais adulto consome as produções da plataforma.Além disso, todas as três posssuem filmes em maior quantidade do que séries.
+
+- A classificação TV-MA, que significa "apenas para adultos", é a que tem a maior popularidade e pode indicar que um público mais adulto consome as produções da plataforma. A classificação TV-14, que significa "adequado para maiores de 14 anos", também é popular entre os usuários da Netflix, enquanto a classificação TV-PG, que significa "orientação parental sugerida", é mais adequada para crianças.
+
+- Embora as classificações indicativas sejam importantes para orientar o público sobre o conteúdo, também é interessante observar que todas as três classificações têm mais filmes do que séries no catálogo da Netflix
  
  <br />
  
