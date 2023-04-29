@@ -63,22 +63,24 @@ Os dados se encontram em um arquivo de formato CSV (Separado por vírgulas) conf
  
 # Insights
   
-1) Observa-se oscilações na proporção de filmes para séries ao longo dos anos analisados, com um aumento mais significativo dos filmes em relação às séries entre 2017 e 2018, e uma queda mais acentuada em 2020. No geral, os filmes apresentaram um crescimento maior em relação às séries.
+1. Observa-se oscilações na proporção de filmes para séries ao longo dos anos analisados, com um aumento mais significativo dos filmes em relação às séries entre 2017 e 2018, e uma queda mais acentuada em 2020. No geral, os filmes apresentaram um crescimento maior em relação às séries.
 
 ### Proporção
-- 2013: 6 filmes e 5 séries = 1.2 filmes por série 
-- 2014: 19 filmes e 6 séries = 3.17 filmes por série
+
 - 2015: 58 filmes / 30 séries = 1.93 filmes por série 
 - 2016: 258 filmes / 185 séries = 1.39 filmes por série 
 - 2017: 864 filmes / 361 séries = 2.39 filmes por série 
 - 2018: 1255 filmes / 430 séries = 2.92 filmes por série 
 - 2019: 1497 filmes / 656 séries = 2.28 filmes por série 
 - 2020: 1312 filmes / 697 séries = 1.88 filmes por série
-
+ 
+ <br />
   
-2) As classificações etárias TV-MA, TV-14 e TV-PG são as líderes no dashboard da Netflix desde 2015, tendo sempre TV-MA na liderança o que pode indicar que um publico mais adulto consome as produções da plataforma.
-
-3) Os Estados Unidos têm sido o país com maior número de produções no catálogo da Netflix ao longo dos anos, enquanto a Índia ocupa o segundo lugar, porém com uma diferença significativa em relação ao número de títulos.
+2. As classificações etárias TV-MA, TV-14 e TV-PG são as líderes no dashboard da Netflix desde 2015, tendo sempre TV-MA na liderança o que pode indicar que um publico mais adulto consome as produções da plataforma.
+ 
+ <br />
+ 
+3. Os Estados Unidos têm sido o país com maior número de produções no catálogo da Netflix ao longo dos anos, enquanto a Índia ocupa o segundo lugar, porém com uma diferença significativa em relação ao número de títulos.
  
  <br />
  
