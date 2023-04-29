@@ -18,8 +18,8 @@ Como a Netflix pode otimizar a composição do seu catálogo para atender às pr
 Para isso, podemos quebrar o problema em perguntas específicas:
  
  - Qual é o número de produções no catálogo da Netflix?
- - Qual é a porcentagem de filmes e programas de tv no catálogo da Netflix e como tem sido a evolução ao longo dos anos?
- - Existe alguma correlação entre o aumento da porcentagem de filmes e séries no catálogo da Netflix?
+ - Qual é a porcentagem de filmes e programas de TV no catálogo da Netflix e como tem sido a evolução ao longo dos anos?
+ - Existe alguma correlação entre o aumento da porcentagem de filmes e programas de TV no catálogo da Netflix?
  - Quais são as classificações etárias mais presentes no catálogo da Netflix?
  - Quais são os países com mais produções no catálogo da Netflix?
 <br />
@@ -65,16 +65,16 @@ Para isso, podemos quebrar o problema em perguntas específicas:
  
 ## Evolução do cátalogo ao longo do tempo
  
-- Observa-se oscilações na proporção de filmes para séries ao longo dos anos analisados, com um aumento mais significativo dos filmes em relação aos programas de tv entre 2017 e 2018, e uma queda mais acentuada em 2020. No geral, os filmes apresentaram um crescimento maior em relação aos programaas de tv.
+- Observa-se oscilações na proporção de filmes para séries ao longo dos anos analisados, com um aumento mais significativo dos filmes em relação aos programas de TV entre 2017 e 2018, e uma queda mais acentuada em 2020. No geral, os filmes apresentaram um crescimento maior em relação aos programas de TV.
 
 ### Proporção
 
-- 2015: 58 filmes / 30 programas de tv = 1.93 filmes por série 
-- 2016: 258 filmes / 185 programas de tv = 1.39 filmes por série 
-- 2017: 864 filmes / 361 programas de tv = 2.39 filmes por série 
-- 2018: 1255 filmes / 430 programas de tv = 2.92 filmes por série 
-- 2019: 1497 filmes / 656 programas de tv = 2.28 filmes por série 
-- 2020: 1312 filmes / 697 programas de tv = 1.88 filmes por série
+- 2015: 58 filmes / 30 programas de TV = 1.93 filmes por série 
+- 2016: 258 filmes / 185 programas de TV = 1.39 filmes por série 
+- 2017: 864 filmes / 361 programas de TV = 2.39 filmes por série 
+- 2018: 1255 filmes / 430 programas de TV = 2.92 filmes por série 
+- 2019: 1497 filmes / 656 programas de TV = 2.28 filmes por série 
+- 2020: 1312 filmes / 697 programas de TV = 1.88 filmes por série
  
  <br />
  
@@ -84,7 +84,7 @@ Para isso, podemos quebrar o problema em perguntas específicas:
 
 - A classificação TV-MA, que significa "apenas para adultos", é a que tem a maior popularidade e pode indicar que um público mais adulto consome as produções da plataforma. A classificação TV-14, que significa "adequado para maiores de 14 anos", também é popular entre os usuários da Netflix, enquanto a classificação TV-PG, que significa "orientação parental sugerida", é mais adequada para crianças.
 
-- Embora as classificações indicativas sejam importantes para orientar o público sobre o conteúdo, também é interessante observar que todas as três classificações têm mais filmes do que séries no catálogo da Netflix
+- Embora as classificações indicativas sejam importantes para orientar o público sobre o conteúdo, também é interessante observar que todas as três classificações têm mais filmes do que programas de TV no catálogo da Netflix
  
  <br />
  
@@ -92,12 +92,12 @@ Para isso, podemos quebrar o problema em perguntas específicas:
  
 - Os Estados Unidos têm sido o país com maior número de produções no catálogo da Netflix ao longo dos anos, enquanto a Índia ocupa o segundo lugar, porém com uma diferença significativa em relação ao número de títulos.
  
-- Apenas Reino Unido, Japão e Coreia do Sul possuem mais programas de tv do que séries.
+- Apenas Reino Unido, Japão e Coreia do Sul possuem mais programas de tv do que filmes
  
  <br />
  
  # Recomendação
- - A recomendação para a Netflix é investir em uma estratégia de composição de catálogo equilibrada entre filmes e séries e levar em consideração as preferências do público, as classificações etárias e as tendências de consumo ao longo do tempo. A empresa também deve expandir seu catálogo em diferentes países e estar atenta às mudanças no comportamento do público para oferecer uma experiência personalizada aos usuários e aumentar a base de assinantes.
+ - A recomendação para a Netflix é investir em uma estratégia de composição de catálogo equilibrada entre filmes e programas de TV e levar em consideração as preferências do público, as classificações etárias e as tendências de consumo ao longo do tempo. A empresa também deve expandir seu catálogo em diferentes países e estar atenta às mudanças no comportamento do público para oferecer uma experiência personalizada aos usuários e aumentar a base de assinantes.
 <br />
 
 # BÔNUS - Dica de Ferramenta - Tooltip
