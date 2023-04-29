@@ -80,7 +80,7 @@ Para isso, podemos quebrar o problema em perguntas específicas:
  
  ## Classificação Indicativa
  
-- As classificações indicativas TV-MA, TV-14 e TV-PG são as líderes no dashboard da Netflix desde 2015, tendo sempre TV-MA na liderança o que pode indicar que um publico mais adulto consome as produções da plataforma.Além disso, todas as três posssuem filmes em maior quantidade do que séries.
+- As classificações indicativas TV-MA, TV-14 e TV-PG são as líderes no dashboard da Netflix desde 2015, tendo sempre TV-MA na liderança o que pode indicar que um publico mais adulto consome as produções da plataforma.
 
 - A classificação TV-MA, que significa "apenas para adultos", é a que tem a maior popularidade e pode indicar que um público mais adulto consome as produções da plataforma. A classificação TV-14, que significa "adequado para maiores de 14 anos", também é popular entre os usuários da Netflix, enquanto a classificação TV-PG, que significa "orientação parental sugerida", é mais adequada para crianças.
 
@@ -88,7 +88,9 @@ Para isso, podemos quebrar o problema em perguntas específicas:
  
  <br />
  
-3. Os Estados Unidos têm sido o país com maior número de produções no catálogo da Netflix ao longo dos anos, enquanto a Índia ocupa o segundo lugar, porém com uma diferença significativa em relação ao número de títulos.
+ ## Países
+ 
+- Os Estados Unidos têm sido o país com maior número de produções no catálogo da Netflix ao longo dos anos, enquanto a Índia ocupa o segundo lugar, porém com uma diferença significativa em relação ao número de títulos.
  
  <br />
  
