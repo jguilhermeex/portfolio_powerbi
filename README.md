@@ -60,7 +60,9 @@ Para isso, podemos quebrar o problema em perguntas específicas:
 
 
 <br />
- 
+<br />
+
+
 # Insights
  
 ## Evolução do cátalogo ao longo do tempo
