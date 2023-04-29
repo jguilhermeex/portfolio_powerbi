@@ -26,7 +26,7 @@ Para isso, podemos quebrar o problema em perguntas específicas:
 
 # Mapeamento dos Dados
 Os dados se encontram em um arquivo de formato CSV (Separado por vírgulas) conforme amostra abaixo:
-<img width="900" alt="Imagem dados" src="https://user-images.githubusercontent.com/120759992/234710323-ebea7c42-f5b3-445e-8142-de7e041ecc76.PNG">
+<img width="1000" alt="Imagem dados" src="https://user-images.githubusercontent.com/120759992/234710323-ebea7c42-f5b3-445e-8142-de7e041ecc76.PNG">
  
 <br />
  
@@ -43,7 +43,7 @@ Os dados se encontram em um arquivo de formato CSV (Separado por vírgulas) conf
 ### Análise exploratória
 - Extrair estatísticas descritivas relevantes.
 
- <img width="917" alt="ETL" src="https://user-images.githubusercontent.com/120759992/234715009-41cd4875-6830-4f42-b3d2-2a84dda0405c.PNG">
+ <img width="1000" alt="ETL" src="https://user-images.githubusercontent.com/120759992/234715009-41cd4875-6830-4f42-b3d2-2a84dda0405c.PNG">
  
 <br />
   
@@ -56,7 +56,7 @@ Os dados se encontram em um arquivo de formato CSV (Separado por vírgulas) conf
 
 <br />
 
-<img width="688" alt="Dashboard Final" src="https://user-images.githubusercontent.com/120759992/235281875-717c99ae-996e-4478-8f2e-533674e9dc70.PNG">
+<img width="1000" alt="Dashboard Final" src="https://user-images.githubusercontent.com/120759992/235281875-717c99ae-996e-4478-8f2e-533674e9dc70.PNG">
 
 
 <br />
