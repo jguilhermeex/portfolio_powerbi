@@ -69,22 +69,22 @@ Para isso, podemos quebrar o problema em perguntas específicas:
 
 Abaixo a proporção do catálogo desde 2015:
 
-- 2015: 58 filmes / 30 programas de TV = 1.93 filmes por série 
-- 2016: 258 filmes / 185 programas de TV = 1.39 filmes por série 
-- 2017: 864 filmes / 361 programas de TV = 2.39 filmes por série 
-- 2018: 1255 filmes / 430 programas de TV = 2.92 filmes por série 
-- 2019: 1497 filmes / 656 programas de TV = 2.28 filmes por série 
-- 2020: 1312 filmes / 697 programas de TV = 1.88 filmes por série
+- 2015: 58 filmes / 30 programas de TV = 1.93 filmes por série. 
+- 2016: 258 filmes / 185 programas de TV = 1.39 filmes por série. 
+- 2017: 864 filmes / 361 programas de TV = 2.39 filmes por série. 
+- 2018: 1255 filmes / 430 programas de TV = 2.92 filmes por série.
+- 2019: 1497 filmes / 656 programas de TV = 2.28 filmes por série.
+- 2020: 1312 filmes / 697 programas de TV = 1.88 filmes por série.
  
  <br />
  
  ## Classificação Indicativa
  
-- As classificações indicativas TV-MA, TV-14 e TV-PG são as líderes no dashboard da Netflix desde 2015, tendo sempre TV-MA na liderança o que pode indicar que um publico mais adulto consome as produções da plataforma.
+- As classificações indicativas TV-MA, TV-14 e TV-PG são as líderes no dashboard da Netflix desde 2015, tendo sempre TV-MA na liderança o que pode indicar que um público mais adulto consome as produções da plataforma.
 
 - A classificação TV-MA, que significa "apenas para adultos", é a que tem a maior popularidade e pode indicar que um público mais adulto consome as produções da plataforma. A classificação TV-14, que significa "adequado para maiores de 14 anos", também é popular entre os usuários da Netflix, enquanto a classificação TV-PG, que significa "orientação parental sugerida", é mais adequada para crianças.
 
-- Embora as classificações indicativas sejam importantes para orientar o público sobre o conteúdo, também é interessante observar que todas as três classificações têm mais filmes do que programas de TV no catálogo da Netflix
+- Embora as classificações indicativas sejam importantes para orientar o público sobre o conteúdo, também é interessante observar que todas as três classificações têm mais filmes do que programas de TV no catálogo da Netflix.
  
  <br />
  
@@ -92,7 +92,7 @@ Abaixo a proporção do catálogo desde 2015:
  
 - Os Estados Unidos têm sido o país com maior número de produções no catálogo da Netflix ao longo dos anos, enquanto a Índia ocupa o segundo lugar, porém com uma diferença significativa em relação ao número de títulos.
  
-- Apenas Reino Unido, Japão e Coreia do Sul possuem mais programas de tv do que filmes
+- Apenas Reino Unido, Japão e Coreia do Sul possuem mais programas de TV do que filmes.
  
  <br />
  
