@@ -2,7 +2,9 @@
 <div style="display: flex; justify-content: space-between;"> <br>
 <img width="1000" alt="netflix" src="https://user-images.githubusercontent.com/120759992/235283693-2ca603e9-0d99-4032-a7d7-1ea06f451847.PNG">
 
-
+# Sobre o Projeto:
+- Este projeto analisou o catálogo da Netflix para identificar tendências e padrões no conteúdo disponível. Com base nos dados examinados, foram sugeridas ações para aprimorar o catálogo e conquistar novos públicos. O projeto apresenta insights valiosos que podem ajudar a Netflix a tomar decisões estratégicas em relação ao conteúdo disponibilizado.
+<br />
 
 # Etapas do Projeto (DataOps)
 - Definição do Problema de Negócio
