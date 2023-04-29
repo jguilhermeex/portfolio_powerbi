@@ -83,7 +83,7 @@ Abaixo a proporção do catálogo desde 2015:
  
  ## Classificação Indicativa
  
-- As classificações indicativas TV-MA, TV-14 e TV-PG são as líderes no dashboard da Netflix desde 2015, tendo sempre TV-MA na liderança o que pode indicar que um público mais adulto consome as produções da plataforma.
+- As classificações indicativas TV-MA, TV-14 e TV-PG são as líderes no dashboard da Netflix desde 2015 com TV-MA sempre na liderança.
 
 - A classificação TV-MA, que significa "apenas para adultos", é a que tem a maior popularidade e pode indicar que um público mais adulto consome as produções da plataforma. A classificação TV-14, que significa "adequado para maiores de 14 anos", também é popular entre os usuários da Netflix, enquanto a classificação TV-PG, que significa "orientação parental sugerida", é mais adequada para crianças.
 
