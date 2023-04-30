@@ -3,7 +3,7 @@
 <img width="1000" alt="netflix" src="https://user-images.githubusercontent.com/120759992/235283693-2ca603e9-0d99-4032-a7d7-1ea06f451847.PNG">
 
 # Sobre o Projeto:
-- Este projeto analisou o catálogo da Netflix para identificar tendências e padrões no conteúdo disponível. Com base nos dados examinados, foram sugeridas ações para aprimorar o catálogo e conquistar novos públicos. O projeto apresenta insights valiosos que podem ajudar a Netflix a tomar decisões estratégicas em relação ao conteúdo disponibilizado. 
+- Este projeto analisou o catálogo da Netflix para identificar tendências e padrões no conteúdo disponível. Com base nos dados examinados, foram sugeridas ações para aprimorar o catálogo e conquistar novos públicos. O projeto apresenta insights que podem ajudar a Netflix a tomar decisões estratégicas em relação ao conteúdo disponibilizado. 
 - Apesar disso, o dataset atual pode não ser suficiente para análises mais aprofundadas. É recomendável coletar mais informações, como dados de visualização (filmes e séries assistidos pelos usuários e tipos de filmes e séries que mantêm os usuários assistindo até o final), informações sobre o ROI de cada produção, para obter insights mais precisos e valiosos.
 <br />
 
