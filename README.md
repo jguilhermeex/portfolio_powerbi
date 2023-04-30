@@ -30,7 +30,8 @@ Para isso, podemos quebrar o problema em perguntas específicas:
 
 # Mapeamento dos Dados
 - Os dados se encontram em um arquivo de formato CSV (Separado por vírgulas) conforme amostra abaixo:
-<img width="1000" alt="Imagem dados" src="https://user-images.githubusercontent.com/120759992/234710323-ebea7c42-f5b3-445e-8142-de7e041ecc76.PNG">
+ src="<img width="1000" alt="Imagem dados" src="https://user-images.githubusercontent.com/120759992/235331414-9dea41b9-4191-40e9-9466-9f2918d548f0.PNG">
+
  
 <br />
  
