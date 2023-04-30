@@ -3,7 +3,8 @@
 <img width="1000" alt="netflix" src="https://user-images.githubusercontent.com/120759992/235283693-2ca603e9-0d99-4032-a7d7-1ea06f451847.PNG">
 
 # Sobre o Projeto:
-- Este projeto analisou o catálogo da Netflix para identificar tendências e padrões no conteúdo disponível. Com base nos dados examinados, foram sugeridas ações para aprimorar o catálogo e conquistar novos públicos. O projeto apresenta insights valiosos que podem ajudar a Netflix a tomar decisões estratégicas em relação ao conteúdo disponibilizado.
+- Este projeto analisou o catálogo da Netflix para identificar tendências e padrões no conteúdo disponível. Com base nos dados examinados, foram sugeridas ações para aprimorar o catálogo e conquistar novos públicos. O projeto apresenta insights valiosos que podem ajudar a Netflix a tomar decisões estratégicas em relação ao conteúdo disponibilizado. 
+- Apesar de fornecer informações valiosas, o dataset atual pode não ser suficiente para análises mais aprofundadas. É recomendável coletar mais informações, como dados de visualização (filmes e séries assistidos pelos usuários e tipos de filmes e séries que mantêm os usuários assistindo até o final), informações sobre o ROI de cada produção, para obter insights mais precisos e valiosos.
 <br />
 
 # Etapas do Projeto (DataOps)
@@ -111,12 +112,13 @@ Abaixo a proporção do catálogo desde 2015:
  <br />
  
  # Recomendações ao tomador de decisão
- 
+
  - Analisar a demanda por filmes e programas de TV entre os usuários da Netflix e ajustar o catálogo de acordo com essas tendências.
  - Considerar a inclusão de mais programas de TV em relação aos filmes no catálogo, caso haja uma tendência de crescimento na demanda por esse tipo de conteúdo.
  - Explorar a possibilidade de produzir mais conteúdo com classificações indicativas TV-MA e TV-14, já que essas classificações são as mais populares entre os usuários da Netflix.
  - Investir em produções oriundas de países que apresentam um potencial de crescimento no número de títulos no catálogo da Netflix, como é o caso da Índia.
  - Analisar o desempenho de produções de países como Reino Unido, Japão e Coreia do Sul, que possuem mais programas de TV do que filmes, e considerar a inclusão de mais produções desses países no catálogo da Netflix.
+ - Apesar de fornecer informações valiosas, o dataset atual pode não ser suficiente para análises mais aprofundadas. É recomendável coletar mais informações, como dados de visualização (filmes e séries assistidos pelos usuários e tipos de filmes e séries que mantêm os usuários assistindo até o final), informações sobre o ROI de cada produção, para obter insights mais precisos e valiosos.
 <br />
 
 # BÔNUS - Dica de Ferramenta - Tooltip
