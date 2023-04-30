@@ -70,11 +70,9 @@ Para isso, podemos quebrar o problema em perguntas específicas:
 <br />
 
 
-# Insights
-<br />
-<img src="Series.jpg" width="1000" height="400">
-<br />
- 
+# Descobertas e Insights
+<img width="1000" src="https://user-images.githubusercontent.com/120759992/235329230-ffb6313d-b259-4d16-99a5-06c6a781cb03.PNG">
+
 ## Evolução do cátalogo ao longo do tempo
 
 
