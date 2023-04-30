@@ -12,7 +12,8 @@
 - Escolha das Ferramentas - Softwares Utilizados
 - ETL (Extração, Transformação e Carregamento)
 - Desenvolvimento do Dashboard
-- Insights e Recomendações
+- Descobertas e Insights
+- Recomendações
 <br />
 
 # Problema de Negócio
