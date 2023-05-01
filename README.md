@@ -95,7 +95,7 @@ Abaixo a proporção do catálogo desde 2015:
  
  ## Classificação Indicativa
  
- [Clique aqui para saber mais sobre as classificações indicativas](https://github.com/jguilhermeex/portfolio_powerbi/files/11367115/CLASSIFICACOES.INDICATIVAS.pdf)
+ [Clique aqui para saber mais sobre as classificações indicativas](https://github.com/jguilhermeex/portfolio_powerbi/blob/main/CLASSIFICA%C3%87%C3%95ES%20INDICATIVAS.pdf)
 
 - As classificações indicativas TV-MA, TV-14 e TV-PG são as líderes no dashboard da Netflix desde 2015 com TV-MA sempre na liderança.
 
