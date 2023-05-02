@@ -66,6 +66,7 @@ Para isso, podemos quebrar o problema em perguntas específicas:
 - [Clique aqui para visualizar o dashboard de maneira interativa](https://app.powerbi.com/view?r=eyJrIjoiZWUwNDNhYTgtZjI0Yi00YTRiLWE5MzItOWYwZWZiM2YyOTg1IiwidCI6ImQ2ZjhiMGIwLTRiNzEtNDE1Yy1iODczLTk4ZDY3Mzc3MzhiZCJ9)
 
 <br />
+ 
 ![Dash](https://user-images.githubusercontent.com/120759992/235677120-25a47eca-5fda-474c-9133-c85daaf04d03.png)
 
 
