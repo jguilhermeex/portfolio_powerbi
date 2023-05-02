@@ -23,10 +23,11 @@ Como a Netflix pode otimizar a composição do seu catálogo para atender às pr
 Para isso, podemos quebrar o problema em perguntas específicas:
  
  - Qual é o número de produções no catálogo da Netflix?
- - Qual é a porcentagem de filmes e programas de TV no catálogo da Netflix e como tem sido a evolução ao longo dos anos?
- - Existe alguma correlação entre o aumento da porcentagem de filmes e programas de TV no catálogo da Netflix?
+ - Qual foi a evolução do catálogo da Netflix em relação à quantidade de filmes e programas de TV ao longo do tempo, e como essa evolução se comparou entre um ano e outro?
  - Quais são as classificações indicativas mais presentes no catálogo da Netflix?
  - Quais são os países com mais produções no catálogo da Netflix?
+ - Qual é a porcentagem de filmes e programas de TV no catálogo da Netflix?
+
 <br />
 
 # Mapeamento dos Dados
@@ -65,8 +66,9 @@ Para isso, podemos quebrar o problema em perguntas específicas:
 - [Clique aqui para visualizar o dashboard de maneira interativa](https://app.powerbi.com/view?r=eyJrIjoiZWUwNDNhYTgtZjI0Yi00YTRiLWE5MzItOWYwZWZiM2YyOTg1IiwidCI6ImQ2ZjhiMGIwLTRiNzEtNDE1Yy1iODczLTk4ZDY3Mzc3MzhiZCJ9)
 
 <br />
+![Dash](https://user-images.githubusercontent.com/120759992/235677120-25a47eca-5fda-474c-9133-c85daaf04d03.png)
 
-<img width="1000" alt="Dashboard Final" src="https://user-images.githubusercontent.com/120759992/235281875-717c99ae-996e-4478-8f2e-533674e9dc70.PNG">
+
 
 
 <br />
@@ -116,7 +118,6 @@ Abaixo a proporção do catálogo desde 2015:
  # Recomendações ao tomador de decisão
 
  - Analisar a demanda por filmes e programas de TV entre os usuários da Netflix e ajustar o catálogo de acordo com essas tendências.
- - Considerar a inclusão de mais programas de TV em relação aos filmes no catálogo, caso haja uma tendência de crescimento na demanda por esse tipo de conteúdo.
  - Explorar a possibilidade de produzir mais conteúdo com classificações indicativas TV-MA e TV-14, já que essas classificações são as mais populares entre os usuários da Netflix.
  - Investir em produções oriundas de países que apresentam um potencial de crescimento no número de títulos no catálogo da Netflix, como é o caso da Índia.
  - Analisar o desempenho de produções de países como Reino Unido, Japão e Coreia do Sul, que possuem mais programas de TV do que filmes, e considerar a inclusão de mais produções desses países no catálogo da Netflix.
