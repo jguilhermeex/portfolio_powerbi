@@ -67,7 +67,8 @@ Para isso, podemos quebrar o problema em perguntas específicas:
 
 <br />
  
-![Dash](https://user-images.githubusercontent.com/120759992/235677120-25a47eca-5fda-474c-9133-c85daaf04d03.png)
+![DASHBOARD](https://user-images.githubusercontent.com/120759992/235730625-f886f5cf-f8c2-4462-b108-161085db0faa.png)
+
 
 
 
@@ -128,7 +129,11 @@ Abaixo a proporção do catálogo desde 2015:
 # BÔNUS - Dica de Ferramenta - Tooltip
 - As dicas de ferramentas no Power BI permitem análises dentro de outras análises, conforme mostrado no vídeo abaixo.
  
-https://user-images.githubusercontent.com/120759992/235327392-e5c734a9-d772-4fee-a4c7-5c1abcee6b6b.mp4
+
+
+
+https://user-images.githubusercontent.com/120759992/235731168-3afd34b5-339f-4f52-a5e3-c8c33abc4e30.mp4
+
 
 
 
