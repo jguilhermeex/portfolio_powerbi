@@ -17,7 +17,7 @@
 - Recomendações
 <br />
 
-# Problema de Negócio
+# Perguntas de Negócio
 Como a Netflix pode otimizar a composição do seu catálogo para atender às preferências do público, considerando o número e a evolução das produções, as classificações etárias e a presença de diferentes países, a fim de oferecer uma experiência personalizada aos seus usuários?
 
 Para isso, podemos quebrar o problema em perguntas específicas:
